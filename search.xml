@@ -5,56 +5,6 @@
     
     <entry>
       <title></title>
-      <link href="2021/01/19/my-sceand-post-another-copy/"/>
-      <url>2021/01/19/my-sceand-post-another-copy/</url>
-      
-        <content type="html"><![CDATA[<p>title: My wife is a demo<br>date: 2021-01-19 02:19:29<br>tags:</p><hr><p>test3</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Diry </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test3 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="2021/01/19/my-sceand-post-copy/"/>
-      <url>2021/01/19/my-sceand-post-copy/</url>
-      
-        <content type="html"><![CDATA[<p>title: My wife is a demo<br>date: 2021-01-19 02:19:29<br>tags:</p><hr><p>test5</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Diry1 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="2021/01/19/my-sceand-post/"/>
       <url>2021/01/19/my-sceand-post/</url>
       
@@ -71,6 +21,31 @@
         <tags>
             
             <tag> Test2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="2021/01/19/stander-post/"/>
+      <url>2021/01/19/stander-post/</url>
+      
+        <content type="html"><![CDATA[<p>very good (This is my content of my post)…..</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> cat2 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
             
         </tags>
       

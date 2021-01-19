@@ -6,7 +6,7 @@
   <link href="http://drogomeng.xyz/atom.xml" rel="self"/>
   
   <link href="http://drogomeng.xyz/"/>
-  <updated>2021-01-19T14:17:29.445Z</updated>
+  <updated>2021-01-19T14:16:26.425Z</updated>
   <id>http://drogomeng.xyz/</id>
   
   <author>
@@ -15,60 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://drogomeng.xyz/2021/01/19/my-sceand-post-another-copy/"/>
-    <id>http://drogomeng.xyz/2021/01/19/my-sceand-post-another-copy/</id>
-    <published>2021-01-19T14:17:29.445Z</published>
-    <updated>2021-01-19T14:17:29.445Z</updated>
-    
-    <content type="html"><![CDATA[<p>title: My wife is a demo<br>date: 2021-01-19 02:19:29<br>tags:</p><hr><p>test3</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;title: My wife is a demo&lt;br&gt;date: 2021-01-19 02:19:29&lt;br&gt;tags:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;test3&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Diry" scheme="http://drogomeng.xyz/categories/Diry/"/>
-    
-    
-    <category term="Test3" scheme="http://drogomeng.xyz/tags/Test3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://drogomeng.xyz/2021/01/19/my-sceand-post-copy/"/>
-    <id>http://drogomeng.xyz/2021/01/19/my-sceand-post-copy/</id>
-    <published>2021-01-19T14:17:23.700Z</published>
-    <updated>2021-01-19T14:17:23.700Z</updated>
-    
-    <content type="html"><![CDATA[<p>title: My wife is a demo<br>date: 2021-01-19 02:19:29<br>tags:</p><hr><p>test5</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;title: My wife is a demo&lt;br&gt;date: 2021-01-19 02:19:29&lt;br&gt;tags:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;test5&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Diry1" scheme="http://drogomeng.xyz/categories/Diry1/"/>
-    
-    
-    <category term="Test" scheme="http://drogomeng.xyz/tags/Test/"/>
-    
-  </entry>
   
   <entry>
     <title></title>
@@ -94,6 +40,31 @@
     
     
     <category term="Test2" scheme="http://drogomeng.xyz/tags/Test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>typora-vue-theme主题介绍</title>
+    <link href="http://drogomeng.xyz/2021/01/19/stander-post/"/>
+    <id>http://drogomeng.xyz/2021/01/19/stander-post/</id>
+    <published>2021-01-19T01:25:00.000Z</published>
+    <updated>2021-01-19T15:09:17.069Z</updated>
+    
+    <content type="html"><![CDATA[<p>very good (This is my content of my post)…..</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;very good (This is my content of my post)…..&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="cat2" scheme="http://drogomeng.xyz/categories/cat2/"/>
+    
+    
+    <category term="test" scheme="http://drogomeng.xyz/tags/test/"/>
     
   </entry>
   
